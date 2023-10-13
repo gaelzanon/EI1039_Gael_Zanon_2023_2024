@@ -1,4 +1,4 @@
-package Actividad_3_2;
+package Actividad_3_1;
 
 public class DemoSingleton {
     public static void main(String[] args) {

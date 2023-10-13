@@ -1,4 +1,4 @@
-package Actividad_3_2;
+package Actividad_3_1;
 
 class Singleton {
     private static Singleton instance;
